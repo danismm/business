@@ -34808,6 +34808,8 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-image-1 {
   width: 128px;
   height: 128px;
+  background-image: url("images/fba2b6c175a6dc12c20511a283ffbc3b9028afe803af0dcabada55c7b0d47b6d266a130b155fd3f475cbf86a1094ef53890d4d8f8ace4c95948336_1280.png");
+  background-position: 50% 50%;
   margin: 9px auto;
 }
 @media (max-width: 1199px) {
